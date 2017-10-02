@@ -23,5 +23,6 @@ to install it.
     OR
     $ pip install cryptography
 
-## Usage
+Usage
+-------------
 In the dir **examples** exists a basic usage of basic_database_connection.
