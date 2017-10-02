@@ -3,8 +3,6 @@ from . import DatabaseRemoteConnection
 
 __version__ = '0.0.1'
 
-logger = logging.getLogger(__file__)
-
 def get_connection(config, tunnel=None):
     database_connection = None
 
